@@ -62,6 +62,7 @@ a:hover {
 border-bottom:1px dotted #d2543c;
 }
 a img {
+image: url(images/logo.png);
 border:none;
 }
 
